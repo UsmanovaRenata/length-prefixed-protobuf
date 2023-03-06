@@ -1,0 +1,9 @@
+﻿  pro.cpp
+C:\Users\Honor\Desktop\pro\pro\pro\pro.cpp(19,1): warning C4267: аргумент: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+C:\Users\Honor\Desktop\pro\pro\pro\pro.cpp(45): message : выполняется компиляция ссылки на экземпляр шаблон функции "PointerToConstData serializeDelimited<TestTask::Messages::WrapperMessage>(const Message &)"
+          with
+          [
+              Message=TestTask::Messages::WrapperMessage
+          ]
+C:\Users\Honor\Desktop\pro\pro\pro\pro.cpp(24,1): warning C4267: аргумент: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+  pro.vcxproj -> C:\Users\Honor\Desktop\pro\pro\x64\Debug\pro.exe
